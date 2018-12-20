@@ -1,2 +1,0 @@
-# rankList
-Created with CodeSandbox
